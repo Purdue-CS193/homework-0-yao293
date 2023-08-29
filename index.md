@@ -1,4 +1,4 @@
-###Nathan Yao's first CS193 homework
+### Nathan Yao's first CS193 homework
 - cool class
 - i like coding
 - webpage
